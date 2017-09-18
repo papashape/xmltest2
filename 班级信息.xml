@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="gb2312"?>
+<class>
+<head>
+<title>班级信息</title>
+</head>
+<body>
+<![CDATA[
+班级名称：软工11502
+所属院系：计算机科学学院
+班主任：向华
+学生人数：37
+备注:以下学生信息只有本人一人
+]]>
+<student>
+<studentname>韩虎伟</studentname>
+<studentnum>201503617</studentnum>
+<studentphonenum>13872209409</studentphonenum>
+</student>
+</body>
+</class>
